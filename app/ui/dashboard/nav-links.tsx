@@ -23,6 +23,7 @@ const links = [
 
 export default function NavLinks() {
   // Get the current pathname to determine which link is active.
+  // Add test comment
   const pathname = usePathname();
 
   return (
